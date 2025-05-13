@@ -3,6 +3,7 @@ The Currency Converter project is a Java-based console application that converts
 one currency to another using live exchange rates from the ExchangeRate-API. This project is unique 
 in that it does not rely on any external JSON libraries to parse API responses; instead, it uses basic 
 string operations and regular expressions. 
+
 Key Features: 
 • User Interaction: The application prompts the user to input a base currency (e.g., USD), a 
 target currency (e.g., INR), and an amount to convert. It validates numeric input for the 
